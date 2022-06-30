@@ -1,7 +1,7 @@
 ### Hello Guys 🤙🏽
 
 <div>
-  <lin> Sejam bem vindos ao meu Github, aqui compartilho alguns dos meus trabalhos como programador, sou estudante e procuro minha primeira vaga no mercado. </lin>
+  <lin> Sejam bem vindos ao meu Github, aqui compartilho alguns dos meus trabalhos como programador, sou estudante, disposto a evoluir, acrescentar e ajudar. Mediante a isso busco minha primeira vaga no mercado. </lin>
   <br>
   
 <div align="center">
