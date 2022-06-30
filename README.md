@@ -1,5 +1,9 @@
 ### Hello Guys 🤙🏽
 
+<div>
+  <lin> Sejam bem vindos ao meu Github, aqui compartilho alguns dos meus trabalhos como programador, sou estudante e procuro minha primeira vaga no mercado. </lin>
+  <br>
+  
 <div align="center">
   <a>
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=DaviDawidh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -23,6 +27,9 @@
   </div>
   </div>
   
+  <br>
+  <div align="center">
+    <lin>Contatos</lin>
   <div align="center">
     <br>
    <a href="https://www.linkedin.com/in/davi-oliveira-725950192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
